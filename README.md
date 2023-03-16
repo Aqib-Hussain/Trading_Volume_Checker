@@ -23,11 +23,6 @@ Use the package manager pip to install the following:
 pip install pydantic
 ```
 
-## Usage
-
-To run the tool do the following:
-
-ENTER HERE
 
 
 
