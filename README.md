@@ -23,6 +23,9 @@ Use the package manager pip to install the following:
 pip install pydantic
 ```
 
+## Usage
+
+To run the program, PitchProgram.py must be executed
 
 
 
